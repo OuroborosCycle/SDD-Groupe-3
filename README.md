@@ -9,4 +9,5 @@ Bonjour j'essaye de tout casser, vous êtes moches de toutes façons
 Tag : v0.5
 nouveau tag
 
+Je teste le tagging
 bob.
